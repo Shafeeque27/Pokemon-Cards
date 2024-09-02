@@ -64,5 +64,3 @@ const createPokemonCard = pokemon => {
 };
 
 fetchPokemon();
-
-// mmm mmmmm mmm mmmmm mmm mmm
